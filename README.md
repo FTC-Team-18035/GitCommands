@@ -1,4 +1,4 @@
-Only use a hard reset if everything is bad and you need to discard everything. 
+Only use a hard reset if everything is bad and you need to discard everything and reset to a previous state. 
 
 Use:
 
